@@ -1,9 +1,9 @@
+# Deal Hunter
 
-Deal Hunter App
+Minimal Next.js app that deploys on Vercel.
 
-Steps:
-1. Upload all files to your GitHub repository
-2. Vercel will automatically deploy
-3. Open the provided link
+## Upload to GitHub
+Upload all files in this zip to your repository root, replacing older files.
 
-This is a minimal working web app.
+## Expected result
+Vercel should detect Next.js and build successfully.
